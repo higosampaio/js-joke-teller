@@ -45,7 +45,7 @@ button:active {
 }
 
 button:disabled {
-  cursor: default;
+  cursor: not-allowed;
   filter: brightness(30%);
 }
 
