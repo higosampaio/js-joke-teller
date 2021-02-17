@@ -4,6 +4,6 @@
 
 <h1 align="center">Joke Teller</h1>
 
-<p align="center">A funny joke teller with JavaScript. .</p>
+<p align="center">A funny joke teller with JavaScript.</p>
 
 <img src="img/screenshot-teller.png" alt="Screenshot">
