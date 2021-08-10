@@ -4,8 +4,6 @@
   <img alt="JavaScript Badge" src="https://img.shields.io/badge/-javascript-important?style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
 </p>
 
-<h1 align="center">Joke Teller</h1>
+<h3 align="center">Joke Teller</h3>
 
 <p align="center">A funny joke teller with JavaScript.</p>
-
-<img src="img/screenshot-teller.png" alt="Screenshot">
